@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.myContainer {
+  max-width: 520px;
+  min-height: 400px;
+  margin: 30px auto;
+  background-color: #f1f1f3;
+  border-radius: 5px;
+  box-shadow: 0px 3px 4px 2px rgb(27, 4, 75);
+}
+.elementOfNumberDarkBlue {
+  background-color: #0d0578;
+  border: 1px solid #060145;
+  color: #fff;
+  border-radius: 5px;
+  padding: 3px 7px;
+  font-weight: 700;
+}
+.elementOfNumberLightBlue {
+  background-color: #03818a;
+  color: #fff;
+  border: 1px solid #03818a;
+  border-radius: 5px;
+  padding: 3px 7px;
+  font-weight: 700;
+}
+.counter {
+  padding: 10px 30px;
+}
